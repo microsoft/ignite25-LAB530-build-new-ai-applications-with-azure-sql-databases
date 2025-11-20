@@ -1,0 +1,1 @@
+[<img width="1280" height="720" alt="MicrosoftFabricAIDataSolutionsPlan" src="https://github.com/user-attachments/assets/a6244797-e04a-4799-b301-c3fe5521de95" />](https://aka.ms/microsoftfabricaidatasolutionsplan)
